@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+.vscode
+main
+i
+in
+main.zip
+helper.js
+*.old
